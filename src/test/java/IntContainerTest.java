@@ -5,6 +5,9 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
+/**
+ * Тесты для класса IntContainer.
+ */
 public class IntContainerTest {
     IntContainer container = new IntContainer();
 
